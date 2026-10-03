@@ -3,13 +3,13 @@
     <channel>
         <title>SoulPlay Agent</title>
         <item>
-            <title>0.23.0</title>
-            <pubDate>Sun, 13 Sep 2026 21:45:38 -0400</pubDate>
+            <title>0.23.1</title>
+            <pubDate>Sat, 03 Oct 2026 15:49:51 -0400</pubDate>
             <link>https://github.com/2krc4v7hvb-lang/soulplay-releases</link>
-            <sparkle:version>70</sparkle:version>
-            <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+            <sparkle:version>71</sparkle:version>
+            <sparkle:shortVersionString>0.23.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/2krc4v7hvb-lang/soulplay-releases/releases/download/v0.23.0/SoulPlay-Agent-0.23.0.dmg" length="3287346" type="application/octet-stream" sparkle:edSignature="joPiBLA56EOSAH4tINWcH1P/q9qEmIAF5SnRlbviF/u66WbAdCBEhe8nODZ0FDff9NtjOXb5HBcLZOllBoSZBQ=="/>
+            <enclosure url="https://github.com/2krc4v7hvb-lang/soulplay-releases/releases/download/v0.23.1/SoulPlay-Agent-0.23.1.dmg" length="3319159" type="application/octet-stream" sparkle:edSignature="UFsASB6hL2dhQGD+s07TkpjIrkAYFxlzqfAtIvy19+19Vp0F+3DfS0llVhtDVmGGb1PqHwwHZNvTLtCY5NZPCQ=="/>
         </item>
     </channel>
 </rss>
